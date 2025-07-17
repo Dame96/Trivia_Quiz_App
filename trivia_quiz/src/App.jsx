@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>Hello, World! It's Trivia Time!</h1>
+      <h1 className='main-title' >Hello, World..It's Trivia Time!</h1>
+      <hr/>
       <GetQuestion />
       
     </>

@@ -1,6 +1,6 @@
-import React from 'react';
+// Results component which displays the results of the quiz with the user name. 
 
-// Results component to display the results of the quiz with the user name. 
+
 
 const Results = ({ name, isCorrect, correctAnswer, onRestart}) => {
     return (
